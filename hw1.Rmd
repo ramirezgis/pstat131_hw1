@@ -95,8 +95,8 @@ It seems that most values are around 26 to 30 highway miles per gallon (with the
 
 Exercise 5:
 ```{r corrplot}
-install.packages("corrplot")
-install.packages("caret")
+#install.packages("corrplot")
+#install.packages("caret")
 library(corrplot)
 library(caret)
 
